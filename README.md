@@ -5,8 +5,6 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=xiaozhai801&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true&theme=default_repocard)](https://github-stats-extended.vercel.app/api?username=xiaozhai801&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true&theme=default_repocard)
 
-![](https://raw.githubusercontent.com/xiaozhai801/xiaozhai801/main/assets/github-contribution-grid-snake.svg)
-
 **一只纯业余的编程爱好者**
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
