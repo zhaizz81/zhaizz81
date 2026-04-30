@@ -4,7 +4,7 @@
 
 一只纯业余的编程爱好者  *Amateur programming enthusiast*
 
-- 想要了解更多，请关注我的博客[宅宅宅]()
+- 想要了解更多，请关注我的[博客](https://xiaozhai801.github.io/blog)
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
