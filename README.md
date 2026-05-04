@@ -19,7 +19,7 @@
 
 **最新博客文章**
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Pages 配置自定义域名 + Cloudflare 加速](https://zhaizz.top/02.指南/03.前端/01.github-page-custom.html)
+- [VitePress 配置 RSS 订阅支持](https://zhaizz.top/02.指南/03.前端/02.vitepress-rss-config.html)
+- [GitHub Pages 配置自定义域名](https://zhaizz.top/02.指南/03.前端/01.github-page-custom-domain.html)
 - [MySQL 8.4.9 的安装](https://zhaizz.top/02.指南/02.软件安装/01.mysql-install.html)
-- [安卓软件](https://zhaizz.top/03.备忘录/01.安装包/01.安卓.html)
 <!-- BLOG-POST-LIST:END -->
