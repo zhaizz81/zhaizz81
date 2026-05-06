@@ -19,7 +19,7 @@
 
 **最新博客文章**
 <!-- BLOG-POST-LIST:START -->
+- [使用 Cloudflare SaaS 配置 IP 优选](https://blog.zhaizz.top/02.指南/03.前端/04.Configure-IP-Optimization-Using-Cloudflare-SaaS)
+- [VitePress 项目二级页面刷新找不到页面的问题](https://blog.zhaizz.top/02.指南/03.前端/03.vitepress-permalink-causes-refresh-error-issues)
 - [VitePress 配置 RSS 订阅支持](https://blog.zhaizz.top/02.指南/03.前端/02.vitepress-rss-config)
-- [GitHub Pages 配置自定义域名](https://blog.zhaizz.top/02.指南/03.前端/01.github-page-custom-domain)
-- [MySQL 8.4.9 的安装](https://blog.zhaizz.top/02.指南/02.软件安装/01.mysql-install)
 <!-- BLOG-POST-LIST:END -->
