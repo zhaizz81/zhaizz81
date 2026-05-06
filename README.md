@@ -19,7 +19,7 @@
 
 **最新博客文章**
 <!-- BLOG-POST-LIST:START -->
-- [VitePress 配置 RSS 订阅支持](https://zhaizz.top/02.指南/03.前端/02.vitepress-rss-config.html)
-- [GitHub Pages 配置自定义域名](https://zhaizz.top/02.指南/03.前端/01.github-page-custom-domain.html)
-- [MySQL 8.4.9 的安装](https://zhaizz.top/02.指南/02.软件安装/01.mysql-install.html)
+- [VitePress 配置 RSS 订阅支持](https://blog.zhaizz.top/02.指南/03.前端/02.vitepress-rss-config)
+- [GitHub Pages 配置自定义域名](https://blog.zhaizz.top/02.指南/03.前端/01.github-page-custom-domain)
+- [MySQL 8.4.9 的安装](https://blog.zhaizz.top/02.指南/02.软件安装/01.mysql-install)
 <!-- BLOG-POST-LIST:END -->
