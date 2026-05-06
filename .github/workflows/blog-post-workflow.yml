@@ -16,4 +16,4 @@ jobs:
       - name: Pull in blog's posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://zhaizz.top/feed.rss"
+          feed_list: "https://blog.zhaizz.top/feed.rss"
