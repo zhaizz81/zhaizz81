@@ -19,7 +19,7 @@
 
 **最新博客文章**
 <!-- BLOG-POST-LIST:START -->
+- [GitHub 项目](https://blog.zhaizz.top/03.备忘录/03.github-project)
 - [使用 Cloudflare 配置优选 IP](https://blog.zhaizz.top/02.指南/03.前端/03.cf-ip-opt)
-- [VitePress 配置 RSS 订阅支持](https://blog.zhaizz.top/02.指南/03.前端/02.vitepress-rss-config)
-- [GitHub Pages 配置自定义域名](https://blog.zhaizz.top/02.指南/03.前端/01.github-page-custom-domain)
+- [[No Title] - 04.zha](https://blog.zhaizz.top/02.指南/03.前端/04.zha)
 <!-- BLOG-POST-LIST:END -->
