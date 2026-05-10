@@ -3,7 +3,7 @@
 [![博客](https://img.shields.io/badge/Blog-博客-%231677ff?style=flat)](https://blog.zhaizz.top/)
 [![B站](https://img.shields.io/badge/BiliBili-B站-%23fb7299?style=flat)](https://space.bilibili.com/452972953)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=xiaozhai801&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true&theme=default_repocard)](https://github-stats-extended.vercel.app/api?username=xiaozhai801&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true&theme=default_repocard)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=zhaizz81&rank_icon=default&hide_rank=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=zhaizz81&rank_icon=default&hide_rank=true&include_all_commits=true)
 
 **一只纯业余的编程爱好者**
 
